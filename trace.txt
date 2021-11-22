@@ -1,0 +1,13 @@
+impossible d'avancerdant à la règle appliquée est : 2
+le numéro de l'itération est  1 ,voici la nouvelle BF : 
+[fleur , graine , 2cotyledone , phanerogame]
+----------------------- 
+le numéro correspondant à la règle appliquée est : 4
+le numéro de l'itération est  2 ,voici la nouvelle BF : 
+[fleur , graine , 2cotyledone , phanerogame , dicotyledone]
+----------------------- 
+le numéro correspondant à la règle appliquée est : 6
+le numéro de l'itération est  3 ,voici la nouvelle BF : 
+[fleur , graine , 2cotyledone , phanerogame , dicotyledone , anemone]
+----------------------- 
+ impossible d'avancer 
